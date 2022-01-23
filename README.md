@@ -1,5 +1,5 @@
 # Numerical Methods
-Notebooks from classes "Metody Obliczeniowe w Nauce i Technice" at AGH UTS in 2021.
+Notebooks from classes "Metody Obliczeniowe w Nauce i Technice" at AGH UST in 2021.
 
 # Laboratories
 
